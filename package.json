@@ -1,0 +1,24 @@
+{
+  "name": "brb",
+  "preferGlobal": "true",
+  "description": "A simple CLI tool for notifying when a terminal task is done.",
+  "version": "0.0.1",
+  "author": "Viktor Fröberg <vikfroberg@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/vikfroberg/brb.git"
+  },
+  "keywords": [
+    "cli",
+    "tools"
+  ],
+  "dependencies": {
+    "node-notifier": "~3.0"
+  },
+  "bin": {
+    "brb": "./bin/brb"
+  },
+  "engines": {
+    "node": ">= 0.8.x"
+  }
+}
