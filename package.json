@@ -2,7 +2,7 @@
   "name": "brb",
   "preferGlobal": "true",
   "description": "A simple CLI tool for notifying when a terminal task is done.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Viktor Fröberg <vikfroberg@gmail.com>",
   "repository": {
     "type": "git",
