@@ -5,6 +5,7 @@ A simple CLI tool for notifying when a terminal task is done
 ![OS X notification](http://cl.ly/VxU3/Screen%20Shot%202014-06-08%20at%2019.23.07.png)
 
 ## Installation
+Node.js needs to be installed: http://nodejs.org
 
     $ npm install -g brb
 
