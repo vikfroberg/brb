@@ -4,10 +4,10 @@ A simple CLI tool for notifying when a terminal task is done
 
 ## Installation
 
-    $ npm install brb
+    $ npm install -g brb
 
 ## Usage
-	
+
 	$ sleep 3; brb
 
 ## Contributing
