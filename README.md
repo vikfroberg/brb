@@ -1,10 +1,17 @@
 # brb
 
-A simple CLI tool for notifying when a terminal task is done
+A simple command line tool that notifies when a command is done
 
 ![OS X notification](http://cl.ly/VxU3/Screen%20Shot%202014-06-08%20at%2019.23.07.png)
 
-## Installation
+Requirements
+------------
+Install node and npm:
+
+http://nodejs.org
+
+Installation
+------------
 Node.js needs to be installed: http://nodejs.org
 
     $ npm install -g brb
@@ -12,6 +19,12 @@ Node.js needs to be installed: http://nodejs.org
 ## Usage
 
 	$ sleep 3; brb
+	
+	$ sleep 3 && brb
+	
+	$ bundle install
+	Installing...
+	brb
 
 ## Contributing
 
