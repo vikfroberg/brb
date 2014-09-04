@@ -8,7 +8,7 @@ Requirements
 ------------
 
 * Mac OS X (>= 10.8)
-* node.js
+* node.js (>= 0.8)
 
 Installation
 ------------
