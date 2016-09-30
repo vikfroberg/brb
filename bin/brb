@@ -4,5 +4,7 @@ var Notification = require('node-notifier');
 
 var notifier = new Notification();
 notifier.notify({
-    message: 'Come back!'
+    title: 'Terminal task completed',
+    message: 'Come back!',
+    sound:true
 });
